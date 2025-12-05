@@ -1,4 +1,22 @@
-# 🏥 **HealthInsight: Medical Report Processing Using Transformer Models**
+# CS5760 – Natural Language Processing
+
+## Final Capstone Project
+
+**Team:** 
+
+1. Harshavardhan Reddy Boreddy
+2. Sai Siva Shankara Vara Prasad Kopparthi
+3. Shanmukha shiva kesava varma Indukuri
+4. Venkata nanda Krishna Yaram
+
+**Course:** CS5760 – Natural Language Processing
+
+**Instructor:** Dr. I Hua Tsai
+
+**Semester:** Fall 2025
+
+
+## 🏥 **HealthInsight: Medical Report Processing Using Transformer Models**
 
 HealthInsight is an AI-powered Natural Language Processing (NLP) system designed to simplify and analyze complex medical reports. The project uses multiple transformer-based models to perform **summarization**, **named entity recognition (NER)**, **similar case retrieval**, and **question–answering (QA)** from medical text.
 
