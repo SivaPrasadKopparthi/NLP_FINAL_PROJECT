@@ -69,20 +69,6 @@ These metrics ensure the generated summaries and predictions align closely with 
 
 ---
 
-## 📁 **Project Structure**
-
-```
-│── data/                  # Dataset or sample medical reports
-│── models/                # Loaded transformer models
-│── app/                   # Gradio interface
-│── notebooks/             # Jupyter/Colab notebooks
-│── requirements.txt       # Dependencies
-│── README.md              # Project documentation
-└── main.py                # Main pipeline script
-```
-
----
-
 ## 🧠 **How It Works (Pipeline)**
 
 1. User uploads a medical report (PDF/TXT).
